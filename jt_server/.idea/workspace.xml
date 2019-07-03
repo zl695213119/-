@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/service/IUserService.java" description="RespResult userSmsLogin(String phone, String code,..." line="47" />
+    <bookmark url="file://$PROJECT_DIR$/common-core/src/main/java/com/junteng/commoncore/service/tag/service/ITradeTagService.java" description="RespResult findAll();" line="24" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7727f7c-b12a-46a1-8b64-965b62b77a89" name="Default Changelist" comment="提交代码">
+      <change afterPath="$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/utils/CustomizePictureUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/utils/Validate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config_test/common-core-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config_test/common-core-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config_test/merchant-alliance-basis-server-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config_test/merchant-alliance-basis-server-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/controller/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/dto/AppUserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/dto/AppUserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/dto/EncData.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/dto/EncData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/result/PageResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/result/PageResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/result/ResultCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/result/ResultCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/utils/MpGeneratorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/utils/MpGeneratorUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/constans/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/constans/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/utils/FileTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/utils/FileTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/utils/StringTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/utils/StringTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/utils/TimeTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/utils/TimeTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-consumption/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-consumption/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore/api/CoreApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore/api/CoreApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore/remote/commoncore/model/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore/remote/commoncore/model/Region.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore/service/areauser/mapping/RegionUserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore/service/areauser/mapping/RegionUserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore/service/areauser/service/IRegionUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore/service/areauser/service/IRegionUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore/service/areauser/service/impl/RegionUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore/service/areauser/service/impl/RegionUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-evaluation/src/main/java/com/junteng/prod6lifeevaluation/aspect/GlobalAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-evaluation/src/main/java/com/junteng/prod6lifeevaluation/aspect/GlobalAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/api/PurchaseMerchantApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/api/PurchaseMerchantApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/async/PurchaseTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/async/PurchaseTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/async/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/async/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/enumerate/MerchantEnumerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/enumerate/MerchantEnumerate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/CustomUnableParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/CustomUnableParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/HolidayUnableParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/HolidayUnableParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/PurchaseParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/PurchaseParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/service/impl/PurchaseMerchantServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/service/impl/PurchaseMerchantServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/service/impl/AuditRecordMerchantServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/service/impl/AuditRecordMerchantServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/service/impl/StoreMerchantServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/service/impl/StoreMerchantServiceImpl.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/common-file-upload/target/" />
+    <ignored path="$PROJECT_DIR$/common-core/target/" />
+    <ignored path="$PROJECT_DIR$/framework-base-utils/target/" />
+    <ignored path="$PROJECT_DIR$/common-sms/target/" />
+    <ignored path="$PROJECT_DIR$/framework-base-client/target/" />
+    <ignored path="$PROJECT_DIR$/common-user-centre/target/" />
+    <ignored path="$PROJECT_DIR$/prod-6life-merchant/target/" />
+    <ignored path="$PROJECT_DIR$/prod-6life-evaluation/target/" />
+    <ignored path="$PROJECT_DIR$/framework-quartz/target/" />
+    <ignored path="$PROJECT_DIR$/prod-6life-consumption/target/" />
+    <ignored path="$PROJECT_DIR$/prod-6life-core/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/service/impl/PurchaseMerchantServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="1272" column="62" lean-forward="true" selection-start-line="1272" selection-start-column="62" selection-end-line="1272" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SendSmsBack</find>
+      <find>findShopByUser</find>
+      <find>main</find>
+      <find>StrategyConfig</find>
+      <find>shopEditTagsMapper.findTag(x)</find>
+      <find>shopEditTagsMapper.findTag</find>
+      <find>holidaysMapper</find>
+      <find>shopHeadFigure</find>
+      <find>spring-boot-maven-plugin</find>
+      <find>war</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/prod-6life-merchant" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/listener/StoreListener.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/remote/core/RemoteCoreService.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/remote/core/fallback/RemoteCoreServiceFallback.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/result/MerchantController.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/service/order/dto/ConsumerTicket.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/service/order/dto/ConsumerTicketDetails.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/service/order/service/ITicketsService.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/enumm/BusinessCodeEnum.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/enumerate/BusinessCodeEnum.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/enumerate/ConsumptionEnumerate.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/remote/user/RemoteUserService.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/remote/user/fallback/RemoteUserServiceFallback.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/service/order/service/ITicketsRecordingPostProcessor.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/constant/CommonConstant.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/constant/BusinessConstant.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/service/order/service/impl/TicketsRecordingPostProcessorImpl.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/utils/UserUtils.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/service/order/service/impl/OrdersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/service/order/service/impl/TicketsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/constant/ConsumptionConstant.java" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/api/ConsumptionMerchantApiController.java" />
+        <option value="$PROJECT_DIR$/prod-6life-evaluation/src/main/java/com/junteng/prod6lifeevaluation/aspect/GlobalAspect.java" />
+        <option value="$PROJECT_DIR$/framework-base-client/pom.xml" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/pom.xml" />
+        <option value="$PROJECT_DIR$/framework-base-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/api/PurchaseMerchantApiController.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/enumerate/MerchantEnumerate.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/service/impl/AuditRecordMerchantServiceImpl.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/service/impl/StoreMerchantServiceImpl.java" />
+        <option value="$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/dto/Test.java" />
+        <option value="$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/dto/RegisteredUserParameter.java" />
+        <option value="$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/dto/UserPasswordRegisteredDTO.java" />
+        <option value="$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/dto/AppUserInfo.java" />
+        <option value="$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/dto/EncData.java" />
+        <option value="$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/utils/EposUtils.java" />
+        <option value="$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/api/UserCentreApiController.java" />
+        <option value="$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/constant/UserCentreConstant.java" />
+        <option value="$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/thirdparty/service/impl/ThirdPartyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/async/StoreTask.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/async/Task.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/PurchaseParameter.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/HolidayUnableParameter.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/CustomUnableParameters.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/async/PurchaseTask.java" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/service/impl/PurchaseMerchantServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-132" />
+    <option name="y" value="13" />
+    <option name="width" value="1725" />
+    <option name="height" value="1034" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jt_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/prod-6life-core/src/main/java/com/junteng/prod6lifecore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/prod-6life-consumption/src/main/java/com/junteng/prod6lifeconsumption/remote" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\jt_server\prod-6life-core\src\main\java\com\junteng\prod6lifecore\service\areauser\service\impl" />
+      <recent name="E:\jt_server\common-core\src\main\java\com\junteng\commoncore\api" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.junteng.commonfileupload" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.junteng.commonusercentre.aspect" />
+      <recent name="com.junteng.commonsms.aspect" />
+      <recent name="com.junteng.commonfileupload.enumerate" />
+      <recent name="com.junteng.commonfileupload.utils" />
+      <recent name="com.junteng.prod6lifecore.aspect" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jt_server\prod-6life-consumption\src\main\java\com\junteng\prod6lifeconsumption\remote" />
+      <recent name="E:\jt_server\prod-6life-merchant\src\main\java\com\junteng\prod6lifemerchant\service\purchase\entity" />
+      <recent name="E:\jt_server\prod-6life-merchant\src\main\java\com\junteng\prod6lifemerchant\service\store\service\impl" />
+      <recent name="E:\jt_server\prod-6life-merchant\src\main\java\com\junteng\prod6lifemerchant\service\store\service" />
+      <recent name="E:\jt_server\prod-6life-merchant\src\main\java\com\junteng\prod6lifemerchant\service\store\mapping" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.9845815" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.CommonCoreApplication">
+    <configuration name="CommonCoreMpGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junteng.commoncore.CommonCoreMpGenerator" />
+      <module name="common-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junteng.commoncore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PurchaseMerchantServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junteng.prod6lifemerchant.service.purchase.service.impl.PurchaseMerchantServiceImpl" />
+      <module name="prod-6life-merchant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junteng.prod6lifemerchant.service.purchase.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreMerchantServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junteng.prod6lifemerchant.service.store.service.impl.StoreMerchantServiceImpl" />
+      <module name="prod-6life-merchant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junteng.prod6lifemerchant.service.store.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junteng.prod6lifemerchant.async.StoreTask" />
+      <module name="prod-6life-merchant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junteng.prod6lifemerchant.async.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in common-core (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="common-core" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junteng.commoncore.CommonCoreApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonFileUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-file-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junteng.commonfileupload.CommonFileUploadApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junteng.commonsms.CommonSmsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonUserCentreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-user-centre" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junteng.commonusercentre.CommonUserCentreApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameworkQuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="framework-quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junteng.frameworkquartz.FrameworkQuartzApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prod6lifeConsumptionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="prod-6life-consumption" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junteng.prod6lifeconsumption.Prod6lifeConsumptionApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prod6lifeCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="prod-6life-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junteng.prod6lifecore.Prod6lifeCoreApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prod6lifeEvaluationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="prod-6life-evaluation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junteng.prod6lifeevaluation.Prod6lifeEvaluationApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prod6lifeMerchantApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="prod-6life-merchant" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junteng.prod6lifemerchant.Prod6lifeMerchantApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junteng.commoncore.CommonCoreApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PurchaseMerchantServiceImpl" />
+        <item itemvalue="Application.StoreMerchantServiceImpl" />
+        <item itemvalue="JUnit.All in common-core (1)" />
+        <item itemvalue="Application.CommonCoreMpGenerator" />
+        <item itemvalue="Application.StoreTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7727f7c-b12a-46a1-8b64-965b62b77a89" name="Default Changelist" comment="" />
+      <created>1561306868536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561306868536</updated>
+      <workItem from="1561306878916" duration="735000" />
+      <workItem from="1561339401828" duration="22179000" />
+      <workItem from="1561366427337" duration="5393000" />
+      <workItem from="1561427668847" duration="26262000" />
+      <workItem from="1561513761528" duration="10963000" />
+      <workItem from="1561529493354" duration="2945000" />
+      <workItem from="1561532472133" duration="3413000" />
+      <workItem from="1561535920778" duration="2878000" />
+      <workItem from="1561539008968" duration="275000" />
+      <workItem from="1561539398829" duration="5838000" />
+      <workItem from="1561600389675" duration="6875000" />
+      <workItem from="1561607302310" duration="540000" />
+      <workItem from="1561607852729" duration="20026000" />
+      <workItem from="1561686973265" duration="24889000" />
+      <workItem from="1561945787205" duration="21883000" />
+      <workItem from="1562032993679" duration="20348000" />
+      <workItem from="1562118874206" duration="20007000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交配置">
+      <created>1561349669245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561349669245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交代码">
+      <created>1561365968041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561365968041</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交代码">
+      <created>1561538301688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561538301688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交代码">
+      <created>1561538340052</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561538340052</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交代码">
+      <created>1561538549641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561538549641</updated>
+    </task>
+    <task id="LOCAL-00006" summary="提交代码">
+      <created>1561539833267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561539833267</updated>
+    </task>
+    <task id="LOCAL-00007" summary="提交代码">
+      <created>1561539887448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1561539887448</updated>
+    </task>
+    <task id="LOCAL-00008" summary="提交最新代码">
+      <created>1561604849030</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1561604849031</updated>
+    </task>
+    <task id="LOCAL-00009" summary="提交最新代码">
+      <created>1561604896147</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1561604896147</updated>
+    </task>
+    <task id="LOCAL-00010" summary="提交最新代码">
+      <created>1561608478718</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1561608478718</updated>
+    </task>
+    <task id="LOCAL-00011" summary="提交最新代码">
+      <created>1561609327281</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561609327281</updated>
+    </task>
+    <task id="LOCAL-00012" summary="提交最新代码">
+      <created>1561609497855</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1561609497855</updated>
+    </task>
+    <task id="LOCAL-00013" summary="提交最新代码">
+      <created>1561616803491</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561616803491</updated>
+    </task>
+    <task id="LOCAL-00014" summary="提交最新代码">
+      <created>1561629279779</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561629279779</updated>
+    </task>
+    <task id="LOCAL-00015" summary="提交最新代码">
+      <created>1561705524678</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561705524678</updated>
+    </task>
+    <task id="LOCAL-00016" summary="提交最新代码">
+      <created>1561707478446</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1561707478446</updated>
+    </task>
+    <task id="LOCAL-00017" summary="提交最新代码">
+      <created>1561707697480</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1561707697480</updated>
+    </task>
+    <task id="LOCAL-00018" summary="提交修改之后的代码">
+      <created>1562120217640</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1562120217640</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_common-core - 2019.06.24 at 16h 56m 58s.xml">
+      <configuration name="All in common-core" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="195449000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15031983" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4989339" weight="0.42361864" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.48970747" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.18634886" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="4" sideWeight="0.68070364" side_tool="true" visible="true" weight="0.040086675" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32502708" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.25893825" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.36944744" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.66088843" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.3192964" visible="true" weight="0.040086675" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.304371" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15298508" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.07583965" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.4626219" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.16576381" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5010661" side_tool="true" weight="0.8288191" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.13867822" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.25893825" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Message" order="11" />
+      <window_info anchor="bottom" id="Find" order="12" visible="true" weight="0.3066089" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.16897655" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交配置" />
+    <MESSAGE value="提交代码" />
+    <MESSAGE value="提交最新代码" />
+    <MESSAGE value="提交修改之后的代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交修改之后的代码" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/jdk/jdk_1.8/src.zip!/java/net/SocketInputStream.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="holidaysAll.get(4)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/jdk_1.8/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="975" column="15" selection-start-line="975" selection-start-column="15" selection-end-line="975" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/enumerate/MerchantEnumerate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/entity/PurchaseEditTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/service/IAuditRecordMerchantService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/constans/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/service/impl/AuditRecordMerchantServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="55" column="94" lean-forward="true" selection-start-line="55" selection-start-column="94" selection-end-line="55" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/jdk_1.8/src.zip!/java/util/Spliterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4455">
+          <caret line="485" column="51" selection-start-line="485" selection-start-column="41" selection-end-line="485" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/jdk_1.8/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#3400#3401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/entity/ShopShowing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/dto/ShopChangeParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.5.1/feign-core-9.5.1-sources.jar!/feign/ReflectiveFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/aspect/GlobalAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/dto/Test.java" />
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/dto/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-base-utils/src/main/java/com/junteng/frameworkbaseutils/utils/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/dto/UserPasswordRegisteredDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/dto/EncData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/dto/AppUserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/result/ResultCodeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/epos/EposClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="31" column="73" lean-forward="true" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="47" column="15" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/enumerate/UserCentreEnumerate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/utils/UserUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/dto/UserThirdPartyInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/utils/EposUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/user/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="226" column="41" selection-start-line="226" selection-start-column="33" selection-end-line="226" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/constant/UserCentreConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/thirdparty/service/IThirdPartyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/service/thirdparty/service/impl/ThirdPartyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1657">
+          <caret line="197" column="57" lean-forward="true" selection-start-line="197" selection-start-column="57" selection-end-line="197" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-user-centre/src/main/java/com/junteng/commonusercentre/api/UserCentreApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="70" column="40" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/constant/PurchaseConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/service/IStoreMerchantService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="98" column="15" selection-start-line="98" selection-start-column="15" selection-end-line="98" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/api/StoreMerchantApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="104" column="42" selection-start-line="104" selection-start-column="42" selection-end-line="104" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/async/StoreTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/vo/PurchaseBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/api/PurchaseMerchantApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/service/IPurchaseMerchantService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/async/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/store/service/impl/StoreMerchantServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="1224" column="178" selection-start-line="1224" selection-start-column="168" selection-end-line="1224" selection-end-column="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/PurchaseParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/HolidayUnableParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/entity/PurchaseEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/dto/CustomUnableParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/async/PurchaseTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="50" column="3" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-base-client/src/main/java/com/junteng/frameworkbaseclient/utils/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="67" column="81" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod-6life-merchant/src/main/java/com/junteng/prod6lifemerchant/service/purchase/service/impl/PurchaseMerchantServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="1272" column="62" lean-forward="true" selection-start-line="1272" selection-start-column="62" selection-end-line="1272" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>common-core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

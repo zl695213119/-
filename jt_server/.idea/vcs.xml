@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/common-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common-file-upload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common-sms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common-user-centre" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/config_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/framework-base-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/framework-base-utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/framework-quartz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prod-6life-consumption" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prod-6life-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prod-6life-evaluation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prod-6life-merchant" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-file-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-user-centre" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/framework-base-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/framework-base-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/framework-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod-6life-consumption" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod-6life-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod-6life-evaluation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prod-6life-merchant" charset="UTF-8" />
+  </component>
+</project>

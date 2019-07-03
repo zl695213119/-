@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-core/common-core.iml" filepath="$PROJECT_DIR$/common-core/common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-file-upload/common-file-upload.iml" filepath="$PROJECT_DIR$/common-file-upload/common-file-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-sms/common-sms.iml" filepath="$PROJECT_DIR$/common-sms/common-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-user-centre/common-user-centre.iml" filepath="$PROJECT_DIR$/common-user-centre/common-user-centre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-base-client/framework-base-client.iml" filepath="$PROJECT_DIR$/framework-base-client/framework-base-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-base-utils/framework-base-utils.iml" filepath="$PROJECT_DIR$/framework-base-utils/framework-base-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-quartz/framework-quartz.iml" filepath="$PROJECT_DIR$/framework-quartz/framework-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jt_server.iml" filepath="$PROJECT_DIR$/.idea/jt_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prod-6life-consumption/prod-6life-consumption.iml" filepath="$PROJECT_DIR$/prod-6life-consumption/prod-6life-consumption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prod-6life-core/prod-6life-core.iml" filepath="$PROJECT_DIR$/prod-6life-core/prod-6life-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prod-6life-evaluation/prod-6life-evaluation.iml" filepath="$PROJECT_DIR$/prod-6life-evaluation/prod-6life-evaluation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prod-6life-merchant/prod-6life-merchant.iml" filepath="$PROJECT_DIR$/prod-6life-merchant/prod-6life-merchant.iml" />
+    </modules>
+  </component>
+</project>

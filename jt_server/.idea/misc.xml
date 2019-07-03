@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/common-core/pom.xml" />
+        <option value="$PROJECT_DIR$/common-file-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/common-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/common-user-centre/pom.xml" />
+        <option value="$PROJECT_DIR$/framework-base-client/pom.xml" />
+        <option value="$PROJECT_DIR$/framework-base-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/framework-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/prod-6life-consumption/pom.xml" />
+        <option value="$PROJECT_DIR$/prod-6life-core/pom.xml" />
+        <option value="$PROJECT_DIR$/prod-6life-evaluation/pom.xml" />
+        <option value="$PROJECT_DIR$/prod-6life-merchant/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

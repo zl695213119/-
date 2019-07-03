@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="framework-base-utils" />
+        <module name="common-core" />
+        <module name="framework-base-client" />
+        <module name="common-user-centre" />
+        <module name="common-sms" />
+        <module name="prod-6life-merchant" />
+        <module name="framework-quartz" />
+        <module name="common-file-upload" />
+        <module name="prod-6life-core" />
+        <module name="prod-6life-evaluation" />
+        <module name="prod-6life-consumption" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-core" target="1.8" />
+      <module name="common-file-upload" target="1.8" />
+      <module name="common-sms" target="1.8" />
+      <module name="common-user-centre" target="1.8" />
+      <module name="framework-base-client" target="1.8" />
+      <module name="framework-base-utils" target="1.8" />
+      <module name="framework-quartz" target="1.8" />
+      <module name="prod-6life-consumption" target="1.8" />
+      <module name="prod-6life-core" target="1.8" />
+      <module name="prod-6life-evaluation" target="1.8" />
+      <module name="prod-6life-merchant" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common-core" options="-parameters" />
+      <module name="common-file-upload" options="-parameters" />
+      <module name="common-sms" options="-parameters" />
+      <module name="common-user-centre" options="-parameters" />
+      <module name="framework-base-client" options="-parameters" />
+      <module name="framework-base-utils" options="-parameters" />
+      <module name="framework-quartz" options="-parameters" />
+      <module name="prod-6life-consumption" options="-parameters" />
+      <module name="prod-6life-core" options="-parameters" />
+      <module name="prod-6life-evaluation" options="-parameters" />
+      <module name="prod-6life-merchant" options="-parameters" />
+    </option>
+  </component>
+</project>
